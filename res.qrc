@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/login.png</file>
+        <file>img/address.png</file>
+        <file>img/add.png</file>
+        <file>img/call.png</file>
+        <file>img/calling.png</file>
+        <file>img/cost.png</file>
+        <file>img/edit.png</file>
+        <file>img/find.png</file>
+        <file>img/sms.png</file>
+        <file>img/menu.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>audio/call.wav</file>
+        <file>audio/ringoff.wav</file>
+        <file>audio/sendsms.wav</file>
+    </qresource>
+</RCC>
