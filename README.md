@@ -1,2 +1,2 @@
-# CellPhoneBillingSystem
+# 手机计费系统
 SUT大二上课设——基于Qt C++编写
